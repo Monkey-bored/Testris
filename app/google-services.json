@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570252115491",
+    "project_id": "testris-4a3b9",
+    "storage_bucket": "testris-4a3b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570252115491:android:49e0d814e53998aff83b96",
+        "android_client_info": {
+          "package_name": "com.example.testris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570252115491-nqovl35kmtpgsra3n67plmehnpes9uvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRGj27e6kmAcRKLTM0Gqp0oUusnXlqJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570252115491-nqovl35kmtpgsra3n67plmehnpes9uvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
